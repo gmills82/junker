@@ -1,14 +1,30 @@
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2008
 
-
+Project("{DD48E8EF-1818-B505-90EE-A79EAC58B244}") = "Junker", "Assembly-CSharp-firstpass.csproj", "{B23FFD00-46C9-F388-2ACA-0B59DB1E2862}"
+EndProject
+Project("{DD48E8EF-1818-B505-90EE-A79EAC58B244}") = "Junker", "Assembly-CSharp.csproj", "{B9A66FEB-F140-280A-6A0C-1F1404642D78}"
+EndProject
+Project("{DD48E8EF-1818-B505-90EE-A79EAC58B244}") = "Junker", "Assembly-CSharp-Editor.csproj", "{9007CFCE-E0AC-AFA3-BE00-3305C9F71670}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-
+		{B23FFD00-46C9-F388-2ACA-0B59DB1E2862}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B23FFD00-46C9-F388-2ACA-0B59DB1E2862}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B23FFD00-46C9-F388-2ACA-0B59DB1E2862}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B23FFD00-46C9-F388-2ACA-0B59DB1E2862}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9A66FEB-F140-280A-6A0C-1F1404642D78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9A66FEB-F140-280A-6A0C-1F1404642D78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9A66FEB-F140-280A-6A0C-1F1404642D78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9A66FEB-F140-280A-6A0C-1F1404642D78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9007CFCE-E0AC-AFA3-BE00-3305C9F71670}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9007CFCE-E0AC-AFA3-BE00-3305C9F71670}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9007CFCE-E0AC-AFA3-BE00-3305C9F71670}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9007CFCE-E0AC-AFA3-BE00-3305C9F71670}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
